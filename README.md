@@ -1,6 +1,6 @@
 # Cardputer EXT Port Breakout Board
 
-This breakout board allows for easy prototyping and wiring to the EXT expansion port of the Cardputer ADV and Cardputer Zero.
+This breakout board allows for easy prototyping and wiring to the EXT expansion port of the M5Stack Cardputer ADV and Cardputer Zero.
 
 Header pins and screw terminals are clearly labelled for ease of use.
 
