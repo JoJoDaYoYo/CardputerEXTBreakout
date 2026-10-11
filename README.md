@@ -2,7 +2,7 @@
 
 This breakout board allows for easy prototyping and wiring to the EXT expansion port of the M5Stack Cardputer ADV and Cardputer Zero.
 
-Header pins and screw terminals are clearly labelled for ease of use.
+Header pins and screw terminals are clearly labelled for ease of use. The board has two holes near the front edge to be used as support peg alignment in 3D printed enclosures.
 
 ## License & Credits
 
